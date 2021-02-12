@@ -44,7 +44,7 @@ Parameters:
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
-    ConstraintDescription: You must enter a GitHub username or organization
+    ConstraintDescription: AishahAllogman
 
   CodeBuildDockerImage:
     Type: String
